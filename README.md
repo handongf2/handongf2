@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @handongf
-- 👀 I’m interested in MDD
-- 📫 How to reach me ，my email is donghan983@gmail.com
+- <Depformernet: A Multimodal Fusion Approach with Hybrid Attention Mechanisms for Depression Detection>. The code will be made public later.
+
+my email is donghan983@gmail.com
 
 <!---
 handongf2/handongf2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
