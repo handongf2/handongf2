@@ -1,4 +1,4 @@
-- <Depformernet: A Multimodal Fusion Approach with Hybrid Attention Mechanisms for Depression Detection>. The code will be made public later.
+- <Depformernet: A Multimodal Fusion Approach with Hybrid Attention Mechanisms for Depression Detection>. The code will be made public later...
 
 my email is donghan983@gmail.com
 
